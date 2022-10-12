@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "GifCreator": "src/" }
+        "psr-4": { "GifCreator\\": "src/" }
     },
     "require": {
         "php": ">=8.1.0"
